@@ -1,0 +1,14 @@
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\bin\Debug\net8.0\Unit6.exe
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\bin\Debug\net8.0\Unit6.deps.json
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\bin\Debug\net8.0\Unit6.runtimeconfig.json
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\bin\Debug\net8.0\Unit6.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\bin\Debug\net8.0\Unit6.pdb
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\obj\Debug\net8.0\Unit6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\obj\Debug\net8.0\Unit6.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\obj\Debug\net8.0\Unit6.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\obj\Debug\net8.0\Unit6.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\obj\Debug\net8.0\Unit6.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\obj\Debug\net8.0\refint\Unit6.dll
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\obj\Debug\net8.0\Unit6.pdb
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\obj\Debug\net8.0\Unit6.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Documents\Homework\Advanced Software Development Using C#\Unit6\Unit6\obj\Debug\net8.0\ref\Unit6.dll
